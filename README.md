@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-<div style="text-align:center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AOrps&theme=nord&show_icons=true">
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
-</div>
+</p>
 
 ### Top Languages
 - To give you an idea about what I like coding in
-<div style="text-align:center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
-</div>
+</p>
 
 ## Deleted Repos
 - If you want to see older projects that I have stopped updating or did not want to work on: Check my [del-repos](https://gitlab.com/del-repos) on Gitlab. **
