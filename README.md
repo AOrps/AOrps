@@ -1,5 +1,22 @@
 ### 👋 Hello there!
 
+<!-- My leetcode is pretty bad-->
+![](https://img.shields.io/badge/Student-NJIT-red) 
+[![](https://img.shields.io/badge/LeetCode-AOrps-yellowgreen)](https://leetcode.com/AOrps/)
+
+## About Me
+
+When I am not on Github, I am either on grinding lc or learning about security!
+
+- 🔭 I’m currently working on `Securing an internship`, `Doing Projects`, `Grinding LC`, `Schoolwork`
+- 🌱 I’m currently learning `Docker`, `How to tackle the Blind 75`, `More about sec and how to exploit stuff`
+- :white_check_mark: Goals:
+    - [ ] Learn LISP
+    - [ ] Learn Docker
+    - [ ] Learn Ansible
+    - [ ] Build Git Prot Checker + Exploiter
+    - [ ] Build Honeypot
+
 <!--
 **AOrps/AOrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +32,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![AOrps's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOrps)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 ## Github Stats
+
 <div style="text-align:center">
     <img src="https://github-readme-stats.vercel.app/api?username=AOrps&theme=nord&show_icons=true">
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </div>
 
+### Top Languages
+- To give you an idea about what I like coding in
+<div style="text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
+    <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
+</div>
+
 ## Deleted Repos
-- 
+- If you want to see older projects that I have stopped updating or did not want to work on: Check my [del-repos](https://gitlab.com/del-repos) on Gitlab. **
+<!-- These repos defn have security flaws, shit code and god knows what else -->
