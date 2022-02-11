@@ -13,7 +13,6 @@ When I am not on Github, I am either on grinding lc or learning about security!
 - :white_check_mark: Goals:
     - [ ] Learn LISP
     - [ ] Learn Docker
-    - [ ] Learn Ansible
     - [ ] Build Git Prot Checker + Exploiter
     - [ ] Build Honeypot
 
