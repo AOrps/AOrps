@@ -8,12 +8,10 @@
 
 When I am not on Github, I am either on grinding lc or learning about security!
 
-- 🔭 I’m currently working on `Securing an internship`, `Doing Projects`, `Grinding LC`, `Schoolwork`
-- 🌱 I’m currently learning `Docker`, `How to tackle the Blind 75`, `More about sec and how to exploit stuff`
+- 🔭 I’m currently working on `Doing Projects`, `Grinding LC`, `Schoolwork`
+- 🌱 I’m currently learning `React`, `GraphQL`, `Docker`, `How to build a distributed service`
 - :white_check_mark: Goals:
-    - [ ] Learn LISP
     - [ ] Learn Docker
-    - [ ] Build Git Prot Checker + Exploiter
     - [ ] Build Honeypot
 
 <!--
@@ -38,12 +36,14 @@ Here are some ideas to get you started:
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
+<!--
 ### Top Languages
 - To give you an idea about what I like coding in
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
-    <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
+    DOCS: https://github.com/anuraghazra/github-readme-stats
 </p>
+-->
 
 ## Deleted Repos
 - If you want to see older projects that I have stopped updating or did not want to work on: Check my [del-repos](https://gitlab.com/del-repos) on Gitlab. **
