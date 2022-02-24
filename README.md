@@ -2,14 +2,13 @@
 
 <!-- My leetcode is pretty bad-->
 ![](https://img.shields.io/badge/Student-NJIT-red) 
-[![](https://img.shields.io/badge/LeetCode-AOrps-yellowgreen)](https://leetcode.com/AOrps/)
 
 ## About Me
 
 When I am not on Github, I am either on grinding lc or learning about security!
 
-- 🔭 I’m currently working on `Doing Projects`, `Grinding LC`, `Schoolwork`
-- 🌱 I’m currently learning `React`, `GraphQL`, `Docker`, `How to build a distributed service`
+- 🔭 I’m currently working on `Doing Projects` && `Schoolwork`
+- 🌱 I’m currently learning `React`, `How to build a distributed service`
 - :white_check_mark: Goals:
     - [ ] Learn Docker
     - [ ] Build Honeypot
