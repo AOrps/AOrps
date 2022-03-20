@@ -8,9 +8,10 @@
 When I am not on Github, I am either on grinding lc or learning about security!
 
 - 🔭 I’m currently working on `Doing Projects` && `Schoolwork`
-- 🌱 I’m currently learning `React`, `How to build a distributed service`
+- 👯 I’m looking to collaborate on [NJITACM's Sig Tracker](https://github.com/njitacm/sig-track) (for more features and functionality to make it easier to work with)
+- 🌱 I’m currently learning `Network Pentesting`
 - :white_check_mark: Goals:
-    - [ ] Learn Docker
+    - [x] Build a distributed service
     - [ ] Build Honeypot
 
 <!--
