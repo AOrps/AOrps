@@ -13,10 +13,10 @@ When I am not on Github, I am either on grinding lc or learning about security!
 - ✔️ Goals:
     - [x] Build a distributed service
     - [ ] Build Honeypot
+    - [ ] Learn Unit Tests
 
 - 🏖️ Summer Goals:
     - [ ] Learn Haskell
-    - [ ] Learn Unit Tests
     - [ ] Learn Lisp
     - [ ] Learn Nim 
 
