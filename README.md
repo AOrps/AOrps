@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 -->
 
 ## Deleted Repos
-- If you want to see older projects that I have stopped updating or did not want to work on: Check my [del-repos](https://gitlab.com/del-repos) on Gitlab. **
+- If you want to see older projects that I have stopped updating or did not want to work on: **Check my [del-repos](https://gitlab.com/del-repos) on Gitlab.**
 <!-- These repos defn have security flaws, shit code and god knows what else -->
