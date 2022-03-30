@@ -10,9 +10,15 @@ When I am not on Github, I am either on grinding lc or learning about security!
 - 🔭 I’m currently working on `Doing Projects` && `Schoolwork`
 - 👯 I’m looking to collaborate on [NJITACM's Sig Tracker](https://github.com/njitacm/sig-track) (for more features and functionality to make it easier to work with)
 - 🌱 I’m currently learning `Network Pentesting`
-- :white_check_mark: Goals:
+- ✔️ Goals:
     - [x] Build a distributed service
     - [ ] Build Honeypot
+
+- 🏖️ Summer Goals:
+    - [ ] Learn Haskell
+    - [ ] Learn Unit Tests
+    - [ ] Learn Lisp
+    - [ ] Learn Nim 
 
 <!--
 **AOrps/AOrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
