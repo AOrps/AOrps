@@ -12,11 +12,11 @@ When I am not on Github, I am either on grinding lc or learning about security!
 - 🌱 I’m currently learning `Network Pentesting`
 - ✔️ Goals:
     - [x] Build a distributed service
-    - [ ] Build Honeypot
+    - [ ] Build ~~Honeypot~~ SIEM
     - [x] Learn Unit Tests
 
 - 🏖️ Summer Goals:
-    - [ ] Learn Haskell
+    - [ ] Learn ~~Haskell~~ Elixir
     - [ ] Learn Lisp
     - [ ] Learn Nim 
 
