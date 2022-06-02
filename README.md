@@ -8,12 +8,12 @@
 <!-- - 🔭 I’m currently working on `Doing Projects` && `Schoolwork` -->
 <!-- - 👯 I’m looking to collaborate on [NJITACM's Sig Tracker](https://github.com/njitacm/sig-track) (for more features and functionality to make it easier to work with) -->
 <!-- - 🌱 I’m currently learning `Network Pentesting` -->
-- ✔️ Goals:
+✔️ Goals:
     - [x] Build a distributed service
     - [ ] Build ~~Honeypot~~ SIEM
     - [x] Learn Unit Tests
 
-- 🏖️ Summer Goals:
+🏖️ Summer Goals:
     - [ ] Learn ~~Haskell~~ Elixir
     - [ ] Learn Lisp
     - [ ] Learn Nim 
