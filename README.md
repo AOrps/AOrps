@@ -9,14 +9,14 @@
 <!-- - 👯 I’m looking to collaborate on [NJITACM's Sig Tracker](https://github.com/njitacm/sig-track) (for more features and functionality to make it easier to work with) -->
 <!-- - 🌱 I’m currently learning `Network Pentesting` -->
 ✔️ Goals:
-    - [x] Build a distributed service
-    - [ ] Build ~~Honeypot~~ SIEM
-    - [x] Learn Unit Tests
+- [x] Build a distributed service
+- [ ] Build ~~Honeypot~~ SIEM
+- [x] Learn Unit Tests
 
 🏖️ Summer Goals:
-    - [ ] Learn ~~Haskell~~ Elixir
-    - [ ] Learn Lisp
-    - [ ] Learn Nim 
+- [ ] Learn ~~Haskell~~ Elixir
+- [ ] Learn Lisp
+- [ ] Learn Nim 
 
 <!--
 **AOrps/AOrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
