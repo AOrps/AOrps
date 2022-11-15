@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# **🏗️ Working on complete github overhaul (Migrating to Gitlab bc of Copilot)**
+
 # 👋 Hello there!
 
 ## `$ about`
