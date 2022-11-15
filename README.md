@@ -17,18 +17,15 @@ Here are some ideas to get you started:
 
 ## `$ about`
 
-- 🔭 I’m currently working on `repo refactoring` & `building infrastructure for @njitacm`
-- 🌱 I’m currently learning `Ansible` & `Terraform`
+- 🔭 I’m currently working on `Repo Refactoring & Migration`
+- 🌱 I’m currently learning `OSCP`
 
 ✔️ Goals:
 - [ ] Repo-refactor
     - [ ] **rebxlance**
-    - [ ] smish-project
-    - [ ] tomnet
-    - [ ] empty-room
     - [ ] sig-track
-- [ ] Build portable productivity tool written in `bash`
 - [ ] Dither designs on more things on github
+
 
 ## `$ stats`
 
