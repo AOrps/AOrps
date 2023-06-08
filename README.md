@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## `$ about`
 
-- 🔭 I’m currently working on `Repo Refactoring & Migration`
-- 🌱 I’m currently learning `OSCP`
+- 🔭 I’m currently working on the [Alpha-Omega](https://alpha-omega.dev/) Project, for the Linux Foundation!
+- 🌱 I’m currently learning about `Networking` & `how to emacs better`
+- 👯 I’m looking to collaborate on any `security project`
 
 ✔️ Goals:
 - [ ] Repo-refactor
