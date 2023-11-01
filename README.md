@@ -18,21 +18,25 @@ Here are some ideas to get you started:
 
 ## `$ about`
 
-<!-- - 🔭 I’m currently working on the [Alpha-Omega](https://alpha-omega.dev/) Project, for the Linux Foundation! -->
+- 🔭 I’m currently working on building up my knowledge base [pmmap](https://github.com/AOrps/pmmap)! 
 - 🌱 I’m currently learning:
   - `How to do Pentesting - currently focusing on enumeration`
   - `How to Emacs (better)`
   - ``
 - 👯 I’m looking to collaborate on any `security project`
-- 🤔 I’m looking for help with []()
+- 🤔 I’m looking for help with [lockshell](https://github.com/AOrps/lockshell), specifically on any advice around how to handle both signals and user I/O
 
+  
 
-✔️ Goals:
+✔️ Goals (2024):
+- [ ] Get OSCP
+- [ ] Learn Portswigger
+- [ ] Work on building out rebel_fleet,njt, and finishing MVP on lockshell
+
+✔️ Goals (2023 2 month blitz)):
 - [ ] Get Security+
-- [ ] Write 5 Articles on [Blog](https://medium.com/@AOrps)
-  - [Lockshell Devlog #0 — Hello World](https://medium.com/@AOrps/lockshell-devlog-0-hello-world-71533a045a97)
-  - [Bash Buffoonery - ]() 
-  - [Bash Buffoonery - ]() 
+- [ ] Learn LUA
+- [ ] Learn BATCH / POWERSHELL
 
 ## `$ stats`
 
@@ -44,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ### Top Languages
-- To give some idea, about what I can do (or what I have worked on):
+- To give some idea, about what I can do (or more aptly, what I have worked on):
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
     DOCS: https://github.com/anuraghazra/github-readme-stats
