@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - To give some idea, about what I can do (or more aptly, what I have worked on):
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
-    DOCS: https://github.com/anuraghazra/github-readme-stats
+    <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
 
