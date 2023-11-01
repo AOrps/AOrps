@@ -22,16 +22,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
   - `How to do Pentesting - currently focusing on enumeration`
   - `How to Emacs (better)`
-  - ``
+  - `Cybersecurity Fundamentals`
 - 👯 I’m looking to collaborate on any `security project`
 - 🤔 I’m looking for help with [lockshell](https://github.com/AOrps/lockshell), specifically on any advice around how to handle both signals and user I/O
 
-  
+
 
 ✔️ Goals (2024):
 - [ ] Get OSCP
+- [ ] Get AZ-500
+- [ ] Get AZ-900
 - [ ] Learn Portswigger
 - [ ] Work on building out rebel_fleet,njt, and finishing MVP on lockshell
+- [ ] Art / Animation Overhaul
 
 ✔️ Goals (2023 2 month blitz)):
 - [ ] Get Security+
