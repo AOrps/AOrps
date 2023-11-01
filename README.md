@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 # 👋 Hello there!
 
+<!--
+## `$ whoami`
+\\ have something like jonathan: https://github.com/jlleitschuh but more zoomer
+
+
+maybe also change format of the rest
+-->
+
+
 ## `$ about`
 
 - 🔭 I’m currently working on building up my knowledge base [pmmap](https://github.com/AOrps/pmmap)! 
