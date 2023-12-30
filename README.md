@@ -30,7 +30,7 @@ maybe also change format of the rest
 - 🔭 I’m currently working on building up my knowledge base [pmmap](https://github.com/AOrps/pmmap)! 
 - 🌱 I’m currently learning:
   - `How to Emacs (better)`
-  - `How to Document / Write Technical Blogs`
+  - `How to Write Technical Blogs`
   - `Building webapps with Kubernetes`
 - 👯 I’m looking to collaborate on any `security project`, 
 - 🤔 I’m looking for help with [lockshell](https://github.com/AOrps/lockshell), specifically on any advice around how to handle both signals and user I/O
