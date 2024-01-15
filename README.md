@@ -58,7 +58,7 @@ maybe also change format of the rest
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOrps">
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
-
+- Note: The heavy usage of C is a result of version controlling the suckless utils in a monorepo
 
 ## Deleted Repos
 - If you want to see older projects that I have stopped updating or did not want to work on: **Check my [del-repos](https://gitlab.com/del-repos) on Gitlab.**
