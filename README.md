@@ -40,8 +40,6 @@ maybe also change format of the rest
 ✔️ Goals (2024):
 - [ ] Get OSCP
 - [ ] Get AZ-900
-- [ ] Get Security+
-
 
 ## `$ stats`
 
