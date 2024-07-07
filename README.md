@@ -38,7 +38,7 @@ maybe also change format of the rest
 
 
 ✔️ Goals (2024):
-- [ ] Get OSCP
+- [ ] Get CKA
 
 ## `$ stats`
 
@@ -56,6 +56,7 @@ maybe also change format of the rest
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
-## Deleted Repos
+## Other Repos (Deleted and Devpost'd)
 - If you want to see older projects that I have stopped updating or did not want to work on: **Check my [del-repos](https://gitlab.com/del-repos) on Gitlab.**
+- If you want to take a look at some of the other (perhaps more fun) projects that I have worked on, check out my [devpost](https://devpost.com/aeo34).
 <!-- These repos defn have security flaws, shit code and god knows what else -->
