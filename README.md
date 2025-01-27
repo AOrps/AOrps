@@ -30,7 +30,7 @@ maybe also change format of the rest
 - 🔭 I’m currently working on building up my knowledge base [pmmap](https://github.com/AOrps/pmmap)! 
 - 🌱 I’m currently learning:
   <!-- - `How to Emacs (better)` -->
-  - `How to Write Technical Blogs on ` [aorps.blog](https://aorps.blog) 
+  - How to Write Technical Blogs on [aorps.blog](https://aorps.blog) 
   - Learning Kubernetes Calico Overlay
   - Building out [aorps.blog](https://aorps.blog)
   <!-- - `Building webapps with Kubernetes` -->
