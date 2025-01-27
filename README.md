@@ -29,11 +29,13 @@ maybe also change format of the rest
 
 - 🔭 I’m currently working on building up my knowledge base [pmmap](https://github.com/AOrps/pmmap)! 
 - 🌱 I’m currently learning:
-  - `How to Emacs (better)`
-  - `How to Write Technical Blogs`
-  - `Building webapps with Kubernetes`
+  <!-- - `How to Emacs (better)` -->
+  - `How to Write Technical Blogs on ` [aorps.blog](https://aorps.blog) 
+  - Learning Kubernetes Calico Overlay
+  - Building out [aorps.blog](https://aorps.blog)
+  <!-- - `Building webapps with Kubernetes` -->
 - 👯 I’m looking to collaborate on any `security project`, 
-- 🤔 I’m looking for help with [lockshell](https://github.com/AOrps/lockshell), specifically on any advice around how to handle both signals and user I/O
+<!-- - 🤔 I’m looking for help with [lockshell](https://github.com/AOrps/lockshell), specifically on any advice around how to handle both signals and user I/O -->
 
 
 
